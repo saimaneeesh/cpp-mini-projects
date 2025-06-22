@@ -1,0 +1,7 @@
+ Student Report Card 
+Name:  Sai Maneesh
+Roll Number: 25
+SubjectName & Marks: 
+Maths: 86 Sceince: 84 Social: 90 English: 93 Telugu: 94 Hindi: 84 
+Average: 88.5
+Grade: A
